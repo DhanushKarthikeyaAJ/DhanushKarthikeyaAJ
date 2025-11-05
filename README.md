@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhanush Karthikeya
 
-I'm a recent graduate in **Electronics and Communication Engineering (ECE)** with a strong passion for **DevOps**, **Cloud Infrastructure**, and **Software Development**. I enjoy building efficient systems, automating workflows, and working at the intersection of hardware and software.
+I'm a graduate in **Electronics and Communication Engineering (ECE)** with a strong passion for **DevOps**, **Cloud Infrastructure**, and **Software Development**. I enjoy building efficient systems, automating workflows, and working at the intersection of hardware and software.
 
 ---
 
