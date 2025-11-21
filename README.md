@@ -9,8 +9,6 @@ I'm a graduate in **Electronics and Communication Engineering (ECE)** with a str
 - 💻 Develop and containerize backend services using **Docker**, **Git**, and **FastAPI**
 - ☁️ Work with cloud platforms like **AWS** and **Azure**, and IaC tools like **Terraform**
 - 🔧 Build and manage **CI/CD pipelines** with **GitHub Actions**, **Jenkins**, and **GitLab**
-- 🧠 Explore **Machine Learning** and **TinyML** projects on microcontrollers like Arduino Nano 33 BLE Sense
-- 📱 Design mobile apps with **React Native** and a focus on clean, responsive UI
 
 ---
 
@@ -23,8 +21,6 @@ I'm a graduate in **Electronics and Communication Engineering (ECE)** with a str
 
 ## 📌 Projects & Interests
 
-- 🔬 TinyML-based **Weed Detection** system for edge devices  
-- 🤖 **Recommendation Systems** & **NLP Summarizers** using transformers  
 - 🌐 Full-stack applications integrating DevOps pipelines and cloud services  
 - 📈 Keen interest in **SRE**, **Cloud-Native DevOps**, and **Infrastructure Automation**
 
